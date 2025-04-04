@@ -2,7 +2,7 @@ import React from 'react'
 
 const Azizbek = () => {
   return (
-    <div>Azizbek hello</div>
+    <div>Azizbek</div>
   )
 }
 export default Azizbek
