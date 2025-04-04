@@ -5,5 +5,5 @@ const Azizbek = () => {
     <div>Azizbek hello</div>
   )
 }
-
+test
 export default Azizbek
